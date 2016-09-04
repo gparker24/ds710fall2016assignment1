@@ -1,4 +1,6 @@
-Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
+Your first assignment is to use GitHub to submit some autobiographical information 
+about yourself.  Answer the following questions.  Use GitHub to submit the resulting
+ text file.
 1. What is your name?
 	Greg Parker
 	
@@ -30,7 +32,8 @@ Your first assignment is to use GitHub to submit some autobiographical informati
 
 	
 6. What do you hope to learn in this class?
-	I hope to gain a working-level of proficiency in Python and R, as well version control, so that I am prepared for future courses in this program.
+	I hope to gain a working-level of proficiency in Python and R, as well version 
+	control, so that I am prepared for future courses in this program.
 
 7. Is there anything else you would like to share with us?
 	No.

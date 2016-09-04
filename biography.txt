@@ -1,8 +1,36 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+	Greg Parker
+	
 2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+	Data Science interests me because it is a field that encompasses so many other 
+	interesting disciplines, and because creating solutions to problems in this 
+	domain rely on teams of individuals with various skills working together - 
+	which is always something I've always enjoyed.  I entered this program only 
+	having a small amount of experience in each related discipline, but I look 
+	forward to learning more.
+
+	
+3. Tell us a little bit about your programming experience.  What programming courses
+	have you taken?  Do you use programming on the job, and if so, how?
+	My undergraduate degree was in software engineering, by I have not worked as a 
+	programmer in a professional capacity since graduating.  In school, I worked 
+	primarily in C# and C++, although I did have a single course in scripting 
+	languages that gave me a bit of experience in Python.
+	
+4. Tell us a little bit about your statistics experience.  What statistics courses 
+	have you taken?  Do you use statistics on the job, and if so, how?
+	I took a single course in basic statistics in my undergraduate program, but that 
+	was over four years ago - so I am a bit rusty.
+
+	
+5. Do you have other experience with R or Python?
+	I worked on a few school projects that utilized Python in my undergraduate 
+	program, but nothing recent.
+
+	
+6. What do you hope to learn in this class?
+	I hope to gain a working-level of proficiency in Python and R, as well version control, so that I am prepared for future courses in this program.
+
+7. Is there anything else you would like to share with us?
+	No.
